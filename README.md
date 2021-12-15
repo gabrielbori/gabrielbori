@@ -7,7 +7,7 @@ const knowledges = {
   code: [WebdriverIo, Appium, Cypress, node],
   currentlyLearning: [ReactNative, React, redux, nextjs],
   tools: [postman, jmeter, jira],
-  currentlyWorkingOn: "Mobile automation for banking app"
+  currentlyWorkingOn: "Automation for banking app"
 } 
 ```
  
