@@ -4,10 +4,10 @@ Some things about me:
 ```javascript
 const knowledges = {
   languages: [Javascript(mid), Java(low), sql],
-  code: [WebdriverIo, Appium, Cypress, Node, Playwright, Kotlin, Cucumber],
-  currentlyLearning: [ReactNative, React, redux, nextjs],
+  code: [WebdriverIo, Appium, Cypress, Node, Playwright, Kotlin, Cucumber, Python],
+  currentlyLearning: [ReactNative, React],
   tools: [postman, jmeter, jira],
-  currentlyWorkingOn: "Automation for banking app"
+  currentlyWorkingOn: "Automation for cibersecurity product"
 } 
 ```
  
