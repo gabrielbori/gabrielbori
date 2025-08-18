@@ -3,19 +3,19 @@ Some things about me:
 
 ```javascript
 const knowledges = {
-  languages: [Javascript(mid), Java(low), sql],
+  languages: [Javascript(mid), Java(low), sql, pyhon(mid), .net(low), vuejs(low)],
   code: [WebdriverIo, Appium, Cypress, Node, Playwright, Kotlin, Cucumber, Python],
-  currentlyLearning: [ReactNative, React],
-  tools: [postman, jmeter, jira],
-  currentlyWorkingOn: "Automation for cibersecurity product"
+  currentlyLearning: [ReactNative, React, .net, vuejs, python],
+  tools: [postman, jmeter, jira, claude code],
+  currentlyWorkingOn: "Team manager for a cibersecurity product. Developer using claude code"
 } 
 ```
  
 🔭 I’m a certified ISTQB tester, working in automation proyects. 
 
-🌱 I’m currently learning as much as i can about React Native and React. 
+🌱 I’m currently working on a cibersecurity product focused on leading the development team, coding using ai tools and managing product. 
 
-🔭 I’m currently working on Automation proyects, mainly for mobile banking apps. But also supporting other automation teams in different frameworks and tecnologies like Java. 
+🔭 I am not a .net or vuejs developer but thanks to ai tools i have been doing a lot of cooding for our product. I manage our team day to day, planning, organizing and helping our product team to develop the best product possible for our users.  
 
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/gabriel-bori-b24655a9/)
 
